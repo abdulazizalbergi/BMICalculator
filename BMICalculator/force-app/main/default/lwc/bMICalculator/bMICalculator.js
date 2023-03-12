@@ -1,3 +1,3 @@
 import { LightningElement } from 'lwc';
 
-export default class BMICalculator extends LightningElement {}
+export default class BmiCalculator extends LightningElement {}
