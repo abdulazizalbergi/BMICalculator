@@ -10,7 +10,7 @@
 }
 .app{
     min-height: 100vh;
-    background-image: url(/sfsites/c/resource/bmiBackground);
+    background-image: url(/sfsites/c/resource/bmiAppBackground);
     background-size: cover;
     background-repeat: no-repeat;
 }
